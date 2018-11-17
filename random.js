@@ -11,7 +11,7 @@ var xhttp = new XMLHttpRequest();
       document.getElementById("idea").innerHTML = x.activity;
     }
   };
-  xhttp.open("GET", "http://www.boredapi.com/api/activity/", true);
+  xhttp.open("GET", "https://www.boredapi.com/api/activity/", true);
   xhttp.send();
 
   // var yhttp = new XMLHttpRequest();
