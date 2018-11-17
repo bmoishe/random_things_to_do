@@ -2,7 +2,7 @@
 
 ## Description
 
-This is uses the boredapi and the giphy api to generated random ideas for people todo. I created this app to understand how api's can be used.
+This is uses the bored api and the giphy api to generated random ideas for people todo. I created this app to understand how api's can be used.
 
 ## License
 
